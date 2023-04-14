@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/aa4c26f0575d474790c59559e2ca1826/artifacts
+deleted_time: 1681483161009
+end_time: 1681482297365
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: deleted
+run_id: aa4c26f0575d474790c59559e2ca1826
+run_name: intrigued-zebra-576
+run_uuid: aa4c26f0575d474790c59559e2ca1826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681482295601
+status: 4
+tags: []
+user_id: dbeuter

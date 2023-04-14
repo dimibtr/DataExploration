@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/0681edd50a6c47d291a299fd4fc01405/artifacts
+end_time: 1681473914922
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 0681edd50a6c47d291a299fd4fc01405
+run_name: capable-snipe-770
+run_uuid: 0681edd50a6c47d291a299fd4fc01405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681473666902
+status: 3
+tags: []
+user_id: dbeuter

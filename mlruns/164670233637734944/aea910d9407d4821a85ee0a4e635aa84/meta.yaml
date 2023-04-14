@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/aea910d9407d4821a85ee0a4e635aa84/artifacts
+end_time: 1681471004714
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: aea910d9407d4821a85ee0a4e635aa84
+run_name: mercurial-auk-529
+run_uuid: aea910d9407d4821a85ee0a4e635aa84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681470803550
+status: 3
+tags: []
+user_id: dbeuter

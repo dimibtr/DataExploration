@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/9ea9a1702c0c4181a8d6229166f09ce5/artifacts
+end_time: 1681483524300
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 9ea9a1702c0c4181a8d6229166f09ce5
+run_name: mysterious-goose-991
+run_uuid: 9ea9a1702c0c4181a8d6229166f09ce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681483136182
+status: 3
+tags: []
+user_id: dbeuter

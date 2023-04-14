@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/d731273c7bde4d6fbd3efdd0e2c13c6f/artifacts
+end_time: 1681481266225
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: d731273c7bde4d6fbd3efdd0e2c13c6f
+run_name: indecisive-bat-442
+run_uuid: d731273c7bde4d6fbd3efdd0e2c13c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681480955954
+status: 3
+tags: []
+user_id: dbeuter

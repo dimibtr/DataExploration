@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/c8b2b10fee3e4373aa0a7c192ffbd4f7/artifacts
+end_time: 1681476092360
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: c8b2b10fee3e4373aa0a7c192ffbd4f7
+run_name: silent-smelt-935
+run_uuid: c8b2b10fee3e4373aa0a7c192ffbd4f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681475757821
+status: 3
+tags: []
+user_id: dbeuter

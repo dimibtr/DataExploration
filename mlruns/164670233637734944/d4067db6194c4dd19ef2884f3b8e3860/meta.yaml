@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/d4067db6194c4dd19ef2884f3b8e3860/artifacts
+end_time: 1681468486918
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: d4067db6194c4dd19ef2884f3b8e3860
+run_name: useful-dog-364
+run_uuid: d4067db6194c4dd19ef2884f3b8e3860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681468273412
+status: 3
+tags: []
+user_id: dbeuter

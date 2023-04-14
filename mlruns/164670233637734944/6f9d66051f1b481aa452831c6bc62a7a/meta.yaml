@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/6f9d66051f1b481aa452831c6bc62a7a/artifacts
+end_time: 1681477375917
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 6f9d66051f1b481aa452831c6bc62a7a
+run_name: ambitious-deer-456
+run_uuid: 6f9d66051f1b481aa452831c6bc62a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681477142820
+status: 3
+tags: []
+user_id: dbeuter

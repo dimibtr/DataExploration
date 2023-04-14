@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/03d2a6f7f09a43188c60f0aa989a346c/artifacts
+end_time: 1681472035548
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 03d2a6f7f09a43188c60f0aa989a346c
+run_name: victorious-stoat-946
+run_uuid: 03d2a6f7f09a43188c60f0aa989a346c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681471825722
+status: 3
+tags: []
+user_id: dbeuter

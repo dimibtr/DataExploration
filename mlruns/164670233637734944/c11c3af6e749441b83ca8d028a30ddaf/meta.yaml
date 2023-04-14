@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/c11c3af6e749441b83ca8d028a30ddaf/artifacts
+end_time: 1681474402363
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: c11c3af6e749441b83ca8d028a30ddaf
+run_name: dapper-gnat-860
+run_uuid: c11c3af6e749441b83ca8d028a30ddaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681474149302
+status: 3
+tags: []
+user_id: dbeuter

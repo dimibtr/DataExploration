@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/2c9a64f1ddba486a8794a04075e33c17/artifacts
+end_time: 1681480634679
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 2c9a64f1ddba486a8794a04075e33c17
+run_name: chill-lynx-22
+run_uuid: 2c9a64f1ddba486a8794a04075e33c17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681480330401
+status: 3
+tags: []
+user_id: dbeuter

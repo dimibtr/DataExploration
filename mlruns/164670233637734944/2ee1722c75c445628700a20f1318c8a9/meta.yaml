@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/2ee1722c75c445628700a20f1318c8a9/artifacts
+end_time: 1681475082125
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 2ee1722c75c445628700a20f1318c8a9
+run_name: gentle-bat-859
+run_uuid: 2ee1722c75c445628700a20f1318c8a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681474734452
+status: 3
+tags: []
+user_id: dbeuter

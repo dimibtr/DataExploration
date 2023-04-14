@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/fa50a21c0dc3426db757dcc40afce033/artifacts
+end_time: 1681480955952
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: fa50a21c0dc3426db757dcc40afce033
+run_name: bemused-snail-35
+run_uuid: fa50a21c0dc3426db757dcc40afce033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681480634681
+status: 3
+tags: []
+user_id: dbeuter

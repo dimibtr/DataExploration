@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/609d6c6130c0402cb4b512e7d85006df/artifacts
+deleted_time: 1681483161009
+end_time: 1681482980415
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: deleted
+run_id: 609d6c6130c0402cb4b512e7d85006df
+run_name: amusing-stoat-158
+run_uuid: 609d6c6130c0402cb4b512e7d85006df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681482878734
+status: 4
+tags: []
+user_id: dbeuter

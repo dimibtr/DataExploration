@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/bdba76065d304bca999798d0e94d89fb/artifacts
+end_time: 1681469758938
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: bdba76065d304bca999798d0e94d89fb
+run_name: gentle-rook-125
+run_uuid: bdba76065d304bca999798d0e94d89fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681469614118
+status: 3
+tags: []
+user_id: dbeuter

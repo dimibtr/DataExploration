@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/c578d233f8a4468294cb97c10c30d2fd/artifacts
+end_time: 1681471825720
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: c578d233f8a4468294cb97c10c30d2fd
+run_name: intrigued-trout-126
+run_uuid: c578d233f8a4468294cb97c10c30d2fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681471626951
+status: 3
+tags: []
+user_id: dbeuter

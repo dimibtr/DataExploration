@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/1dfa5a2a481e4e4d9444dbfcd0f6e3c4/artifacts
+end_time: 1681476790879
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 1dfa5a2a481e4e4d9444dbfcd0f6e3c4
+run_name: grandiose-goat-169
+run_uuid: 1dfa5a2a481e4e4d9444dbfcd0f6e3c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681476451364
+status: 3
+tags: []
+user_id: dbeuter

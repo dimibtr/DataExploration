@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/86a3e5cc9c04446aa7aa09e2334485af/artifacts
+end_time: 1681476451362
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 86a3e5cc9c04446aa7aa09e2334485af
+run_name: youthful-lamb-651
+run_uuid: 86a3e5cc9c04446aa7aa09e2334485af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681476092362
+status: 3
+tags: []
+user_id: dbeuter

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/d2652af9c4584bc19bceffebb8fc4413/artifacts
+deleted_time: 1681488836781
+end_time: 1681485739522
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: deleted
+run_id: d2652af9c4584bc19bceffebb8fc4413
+run_name: lyrical-snipe-830
+run_uuid: d2652af9c4584bc19bceffebb8fc4413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681485339377
+status: 3
+tags: []
+user_id: dbeuter

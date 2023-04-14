@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/9ac5a965e6224ca382fe995950f43666/artifacts
+end_time: 1681467062960
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 9ac5a965e6224ca382fe995950f43666
+run_name: bald-quail-476
+run_uuid: 9ac5a965e6224ca382fe995950f43666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681466910884
+status: 3
+tags: []
+user_id: dbeuter

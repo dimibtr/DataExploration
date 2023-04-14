@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/9d1fd8a1f1d0490393e7bfbf2cbca641/artifacts
+end_time: 1681474149300
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 9d1fd8a1f1d0490393e7bfbf2cbca641
+run_name: capricious-quail-460
+run_uuid: 9d1fd8a1f1d0490393e7bfbf2cbca641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681473914924
+status: 3
+tags: []
+user_id: dbeuter

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/73a7a916b756435fbaf9422a72ffb7f0/artifacts
+end_time: 1681470209233
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 73a7a916b756435fbaf9422a72ffb7f0
+run_name: able-doe-746
+run_uuid: 73a7a916b756435fbaf9422a72ffb7f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681470056532
+status: 3
+tags: []
+user_id: dbeuter

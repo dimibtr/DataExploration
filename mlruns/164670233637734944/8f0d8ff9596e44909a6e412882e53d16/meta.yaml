@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/8f0d8ff9596e44909a6e412882e53d16/artifacts
+end_time: 1681468709081
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 8f0d8ff9596e44909a6e412882e53d16
+run_name: awesome-sow-180
+run_uuid: 8f0d8ff9596e44909a6e412882e53d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681468486920
+status: 3
+tags: []
+user_id: dbeuter

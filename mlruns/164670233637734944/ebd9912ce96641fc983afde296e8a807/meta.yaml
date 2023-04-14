@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/ebd9912ce96641fc983afde296e8a807/artifacts
+end_time: 1681470353782
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: ebd9912ce96641fc983afde296e8a807
+run_name: hilarious-rat-678
+run_uuid: ebd9912ce96641fc983afde296e8a807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681470209235
+status: 3
+tags: []
+user_id: dbeuter

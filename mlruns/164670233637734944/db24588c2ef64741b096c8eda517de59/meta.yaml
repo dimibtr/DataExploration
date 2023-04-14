@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/db24588c2ef64741b096c8eda517de59/artifacts
+end_time: 1681468273410
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: db24588c2ef64741b096c8eda517de59
+run_name: kindly-frog-80
+run_uuid: db24588c2ef64741b096c8eda517de59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681468049440
+status: 3
+tags: []
+user_id: dbeuter

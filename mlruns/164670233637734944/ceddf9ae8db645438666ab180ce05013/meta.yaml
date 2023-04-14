@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/ceddf9ae8db645438666ab180ce05013/artifacts
+end_time: 1681478578568
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: ceddf9ae8db645438666ab180ce05013
+run_name: aged-cow-473
+run_uuid: ceddf9ae8db645438666ab180ce05013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681478333759
+status: 3
+tags: []
+user_id: dbeuter

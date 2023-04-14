@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/1d2de1ae8a3043b39e207dbf088ce863/artifacts
+end_time: 1681469380980
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 1d2de1ae8a3043b39e207dbf088ce863
+run_name: industrious-bee-884
+run_uuid: 1d2de1ae8a3043b39e207dbf088ce863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681469159833
+status: 3
+tags: []
+user_id: dbeuter

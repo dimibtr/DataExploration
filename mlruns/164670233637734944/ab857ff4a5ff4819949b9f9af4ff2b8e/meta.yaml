@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/ab857ff4a5ff4819949b9f9af4ff2b8e/artifacts
+end_time: 1681479367254
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: ab857ff4a5ff4819949b9f9af4ff2b8e
+run_name: clean-donkey-72
+run_uuid: ab857ff4a5ff4819949b9f9af4ff2b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681479053394
+status: 3
+tags: []
+user_id: dbeuter

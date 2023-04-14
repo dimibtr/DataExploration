@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/a10d16bef823443eb62065d49c0fdf5a/artifacts
+deleted_time: 1681484283556
+end_time: 1681483979092
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: deleted
+run_id: a10d16bef823443eb62065d49c0fdf5a
+run_name: melodic-gull-714
+run_uuid: a10d16bef823443eb62065d49c0fdf5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681483589546
+status: 4
+tags: []
+user_id: dbeuter

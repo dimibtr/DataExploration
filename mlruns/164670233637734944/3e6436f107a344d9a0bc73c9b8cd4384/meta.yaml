@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/3e6436f107a344d9a0bc73c9b8cd4384/artifacts
+end_time: 1681469159831
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 3e6436f107a344d9a0bc73c9b8cd4384
+run_name: skittish-mouse-157
+run_uuid: 3e6436f107a344d9a0bc73c9b8cd4384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681468926080
+status: 3
+tags: []
+user_id: dbeuter

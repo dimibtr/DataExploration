@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/bfe289a621a44245ad2020bbfc0064ab/artifacts
+end_time: 1681469614116
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: bfe289a621a44245ad2020bbfc0064ab
+run_name: marvelous-smelt-802
+run_uuid: bfe289a621a44245ad2020bbfc0064ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681469380982
+status: 3
+tags: []
+user_id: dbeuter

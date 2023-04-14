@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/e899cf75c290433cab659942ad4d77f0/artifacts
+end_time: 1681473183396
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: e899cf75c290433cab659942ad4d77f0
+run_name: luminous-bird-301
+run_uuid: e899cf75c290433cab659942ad4d77f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681472946522
+status: 3
+tags: []
+user_id: dbeuter

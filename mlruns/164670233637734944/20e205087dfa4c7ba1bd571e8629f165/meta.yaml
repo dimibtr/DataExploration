@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/20e205087dfa4c7ba1bd571e8629f165/artifacts
+end_time: 1681479694263
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 20e205087dfa4c7ba1bd571e8629f165
+run_name: beautiful-stork-120
+run_uuid: 20e205087dfa4c7ba1bd571e8629f165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681479367256
+status: 3
+tags: []
+user_id: dbeuter

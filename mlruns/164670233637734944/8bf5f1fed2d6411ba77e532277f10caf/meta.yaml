@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/8bf5f1fed2d6411ba77e532277f10caf/artifacts
+end_time: 1681473666899
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 8bf5f1fed2d6411ba77e532277f10caf
+run_name: salty-kit-112
+run_uuid: 8bf5f1fed2d6411ba77e532277f10caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681473430503
+status: 3
+tags: []
+user_id: dbeuter

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/d424061abe114304aa9931275b914ca3/artifacts
+end_time: 1681471416760
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: d424061abe114304aa9931275b914ca3
+run_name: dashing-mouse-861
+run_uuid: d424061abe114304aa9931275b914ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681471217057
+status: 3
+tags: []
+user_id: dbeuter

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/460dbb2c59a5465591ab3f215686991f/artifacts
+end_time: 1681468049438
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 460dbb2c59a5465591ab3f215686991f
+run_name: adaptable-stag-400
+run_uuid: 460dbb2c59a5465591ab3f215686991f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681467833824
+status: 3
+tags: []
+user_id: dbeuter

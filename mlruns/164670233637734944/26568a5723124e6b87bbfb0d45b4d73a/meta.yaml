@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/26568a5723124e6b87bbfb0d45b4d73a/artifacts
+end_time: 1681467833823
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: 26568a5723124e6b87bbfb0d45b4d73a
+run_name: youthful-ant-232
+run_uuid: 26568a5723124e6b87bbfb0d45b4d73a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681467677497
+status: 3
+tags: []
+user_id: dbeuter

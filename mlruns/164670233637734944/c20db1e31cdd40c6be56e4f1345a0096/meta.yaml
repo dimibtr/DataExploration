@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dbeuter/Documents/Duales_Studium/DHBW/4.Semester/Data_Exploration/Abgabe/mlruns/164670233637734944/c20db1e31cdd40c6be56e4f1345a0096/artifacts
+end_time: 1681467677494
+entry_point_name: ''
+experiment_id: '164670233637734944'
+lifecycle_stage: active
+run_id: c20db1e31cdd40c6be56e4f1345a0096
+run_name: skittish-moose-981
+run_uuid: c20db1e31cdd40c6be56e4f1345a0096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681467526607
+status: 3
+tags: []
+user_id: dbeuter
